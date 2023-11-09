@@ -24,4 +24,4 @@ Compétences en communication et en réseau 🗨️ :
 ### Langages de programmation et outils 🌐
 
 ```text
-JavaScript | HTML | CSS | Vue.js | React | Ruby | Python
+HTML | CSS | JavaScript | Bootstrap | Vue.js | React | Ruby | Python
