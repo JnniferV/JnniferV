@@ -6,6 +6,7 @@
 - 🎮 Intéressée par les technologies, les jeux vidéo, la science-fiction et la science en général.
 - 🤝 Ouverte à la collaboration avec des entreprises de la tech et avec ceux issus de l'univers 'geek' auquel j'appartiens.
 - 📫 Comment me joindre: [Envoyez-moi un e-mail](mailto:jennv.contact@gmail.com)
+- @ Mon portfolio disponible sur : https://jnniferv.github.io/Portfolio/
 
 ## Mes compétences 🛠️
 
