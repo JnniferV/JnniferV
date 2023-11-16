@@ -26,8 +26,8 @@ Compétences en communication et en réseau 🗨️ :
 
 ```text
 HTML | CSS | JavaScript | Bootstrap | Vue.js | React | Ruby | Python
-
+```
 ### Base de données
 
 ```text
-Firebase | MySQL |
+Firebase | MySQL
