@@ -31,3 +31,9 @@ HTML | CSS | SASS | JavaScript | Bootstrap | Vue.js | React | Ruby | Python
 
 ```text
 Firebase | MySQL
+```
+### Déploiement
+
+```text
+Github Pages | Netlify | Heroku | Hébergeur avec nom de domaine
+```
