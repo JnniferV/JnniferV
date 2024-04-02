@@ -16,6 +16,7 @@ Gestion de projet :
 - Communication efficace en équipe
 - Résolution de problèmes et débogage
 - Révision de code et pair programming
+- Utilisation avancée de l'IA
 
 Compétences en communication et en réseau 🗨️ :
 - Connaissance des principes de la cybersécurité: Authentification, chiffrement, OWASP
