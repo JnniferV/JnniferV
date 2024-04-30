@@ -11,22 +11,21 @@
 ## Mes compétences 🛠️
 
 Gestion de projet :
-- Méthodologies Agile et Scrum
+- Méthodologies Agile et connaissance de la méthodologie Scrum
 - Gestion de version avec Git et GitHub
-- Communication efficace en équipe
 - Résolution de problèmes et débogage
 - Révision de code et pair programming
-- Utilisation avancée de l'IA
+- Utilisation avancée de l'IA (ChatGPT, Copilot, Codeium, MidJourney, Dall-e, Canva...)
 
 Compétences en communication et en réseau 🗨️ :
 - Connaissance des principes de la cybersécurité: Authentification, chiffrement, OWASP
 - Présentations techniques et non techniques
-- Rédaction de documentation et de tutoriels
+- Rédaction de documentation technique et de tutoriels
 
 ### Langages de programmation et librairies 🌐
 
 ```text
-HTML | CSS | SASS | JavaScript | Bootstrap | Vue.js | React | Ruby | Python (Numpy - Pandas - Matplotlib)
+HTML | CSS | SASS | JavaScript | Bootstrap | Tailwind | React | Next.js | Python (Numpy - Pandas - Matplotlib) | Ruby
 ```
 ### Base de données
 
@@ -36,5 +35,11 @@ Firebase | MySQL | MongoDB
 ### Déploiement
 
 ```text
-Github Pages | Netlify | Heroku | Hébergeur avec nom de domaine
+Github Pages | Netlify | Heroku | Hébergeur avec nom de domaine OVH
+```
+
+### No Code
+
+```text
+Bubble | FlutterFlow
 ```
