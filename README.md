@@ -43,3 +43,12 @@ Github Pages | Netlify | Heroku | Hébergeur avec nom de domaine OVH
 ```text
 Bubble | FlutterFlow
 ```
+
+### Soft Skills
+
+- Flexibilité & adaptabilité
+- Esprit d'équipe & intelligence collective.
+- Communication & écoute active.
+- Résilience & gestion du stress.
+- Capacité d'apprentissage.
+- Intelligence émotionnelle.
