@@ -25,7 +25,7 @@ Compétences en communication et en réseau 🗨️ :
 ### Langages de programmation et librairies 🌐
 
 ```text
-HTML | CSS | SASS | JavaScript | Bootstrap | Tailwind | React | Next.js | Python (Numpy - Pandas - Matplotlib) | Ruby
+HTML | CSS | SASS | JavaScript | Bootstrap | Tailwind | React | PHP | Python (Numpy - Pandas - Matplotlib) | Ruby
 ```
 ### Base de données
 
