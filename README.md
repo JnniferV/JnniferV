@@ -15,7 +15,7 @@ Gestion de projet :
 - Gestion de version avec Git et GitHub
 - Résolution de problèmes et débogage
 - Révision de code et pair programming
-- Utilisation avancée de l'IA (ChatGPT, Copilot, Codeium, MidJourney, Dall-e, Canva...)
+- Utilisation avancée de l'IA (ChatGPT, Copilot, Cursor, LLM, CrewAi, Canva...)
 
 Compétences en communication et en réseau 🗨️ :
 - Connaissance des principes de la cybersécurité: Authentification, chiffrement, OWASP
@@ -25,7 +25,7 @@ Compétences en communication et en réseau 🗨️ :
 ### Langages de programmation et librairies 🌐
 
 ```text
-HTML | CSS | SASS | JavaScript | Bootstrap | Tailwind | React | PHP | Python (Numpy - Pandas - Matplotlib) | Ruby
+HTML | CSS | SASS | Bootstrap | Tailwind | Shadcn UI| JavaScript | React | PHP | Node & Nest.js | Python (Numpy - Pandas - Matplotlib) | Ruby
 ```
 ### Base de données
 
