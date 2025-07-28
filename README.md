@@ -2,9 +2,9 @@
 
 ## À propos de moi 🚀
 
-- 🌱 Actuellement en train d'apprendre à devenir développeuse fullstack.
+- 🌱 Actuellement en reconversion en tant que développeuse fullstack.
 - 🎮 Intéressée par les technologies, les jeux vidéo, la science-fiction et la science en général.
-- 🤝 Ouverte à la collaboration avec des entreprises de la tech ou autre domaine et avec des particuliers.
+- 🤝 Ouverte à la collaboration avec des entreprises et des particuliers.
 - 📫 Comment me joindre: [Envoyez-moi un e-mail](mailto:jennv.contact@gmail.com)
 - @ Mon portfolio disponible sur : https://jnniferv.github.io/Portfolio_Website/
 
