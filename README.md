@@ -30,7 +30,7 @@ HTML | CSS | SASS | Bootstrap | Tailwind | Shadcn UI| JavaScript | React | Next 
 ### Base de données
 
 ```text
-Firebase | MySQL | MongoDB
+Firebase | MySQL | MongoDB Atlas | Supabase
 ```
 ### Déploiement
 
@@ -41,7 +41,7 @@ Github Pages | Netlify | Heroku | Hébergeur avec nom de domaine OVH
 ### No Code
 
 ```text
-Bubble | FlutterFlow
+Bubble | FlutterFlow | WebFlow
 ```
 
 ### Soft Skills
