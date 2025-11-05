@@ -35,7 +35,7 @@ Firebase | MySQL | MongoDB Atlas | Supabase
 ### Déploiement
 
 ```text
-Github Pages | Netlify | Heroku | Hébergeur avec nom de domaine OVH
+Github Pages | Netlify | Heroku | Hébergeur avec nom de domaine OVH / Hostinger / LWS
 ```
 
 ### No Code
