@@ -25,17 +25,17 @@ Compétences en communication et en réseau 🗨️ :
 ### Langages de programmation et librairies 🌐
 
 ```text
-HTML | CSS | SASS | Bootstrap | Tailwind | Shadcn UI| JavaScript | React | Next.js | PHP | Node/Nest.js | Python (Numpy - Pandas - Matplotlib) | Ruby
+HTML-CSS-SASS-Bootstrap-TailwindCSS-Shadcn UI| JavaScript Vanilla | Java et ses frameworks | Angular-React | Next.js | Node/Nest.js | PHP | Python (Numpy - Pandas - Matplotlib) | Ruby
 ```
 ### Base de données
 
 ```text
-Firebase | MySQL | MongoDB Atlas | Supabase | Airtable
+MySQL | MongoDB Atlas | Supabase | Firebase | Airtable
 ```
 ### Déploiement
 
 ```text
-Github Pages | Netlify | Heroku | Hébergeur avec nom de domaine OVH / Hostinger / LWS
+Docker | Github Pages | Netlify | Heroku | Hébergeur avec nom de domaine OVH / Hostinger / LWS
 ```
 
 ### No Code
@@ -47,8 +47,8 @@ Bubble | FlutterFlow | WebFlow
 ### Soft Skills
 
 - Flexibilité & adaptabilité
-- Esprit d'équipe & intelligence collective.
-- Communication & écoute active.
-- Résilience & gestion du stress.
-- Capacité d'apprentissage.
-- Intelligence émotionnelle.
+- Esprit d'équipe & autonomie
+- Communication & écoute active
+- Gestion des priorités
+- Force de proposition
+- Capacité d'apprentissage
